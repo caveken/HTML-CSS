@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+}
+h2{
+    color: coral;
+}
+.ilk {
+    color:blue;
+}
+.red {
+    color:red;
+}
+a{
+    text-decoration: none;
+}
+span{
+    color: #000;
+}
+.a{
+    color: rgb(35, 248, 7);
+}

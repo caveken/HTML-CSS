@@ -1,0 +1,13 @@
+.container{
+    width : 300 px ;
+    height: 200 px ;
+    background-color: brown;
+    }
+.kutu{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 50px;
+    
+
+}
